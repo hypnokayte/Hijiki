@@ -8,12 +8,12 @@ stylesheets[all][] = style.css
 stylesheets[all][] = style-ie6.css
 stylesheets[print][] = print.css
 
-regions[left]       	= Left Column
-regions[right]			= Right Column
-regions[contenttop]    	= Content Top
-regions[content]        = Content
-regions[header]        	= Header
-regions[footer]         = Footer
+regions[left] = Left Column
+regions[right] = Right Column
+regions[contenttop] = Content Top
+regions[content] = Content
+regions[header] = Header
+regions[footer] = Footer
 
 
 ; Information added by drupal.org packaging script on 2012-01-11
