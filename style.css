@@ -1,0 +1,73 @@
+/* ==========================================
+	GLOBAL ELEMENTS
+========================================== */
+
+* {margin: 0px; padding: 0px;}
+
+body {background-color: #fff; margin: 0; color: black; font-family: sans-serif; font-size: 100%; text-align: center;}
+
+h1,h2,h3,h4,h5,h6,h7 {font-family: Georgia,serif; font-weight: normal; }
+h1, h2, h3, h4, h5, h6 {color: #666;}
+h1 {font-size: 1.8em;}
+h2 {font-size: 1.5em; clear: both;}
+h3 {font-size: 1.3em;}
+h4 {font-size: 1.2em;}
+h5 {font-size: 1.1em;}
+h6 {font-size: 1em; font-weight: bold;}
+
+a {text-decoration: underline; }
+a:link {color: #336699;}
+a:visited {color: #339}
+a:active {color: #339;}
+a:hover, a:focus {text-decoration: underline; text-decoration: none;}
+
+/* ==========================================
+	TYPE
+========================================== */
+
+p {margin-bottom: 1em; line-height: 1.5em;}
+
+#maincolumn ul {margin-left: 1em; padding-left: 1em;}
+
+small {font-size: 0.8em; color: #666;}
+
+.visuallyhidden {display: none;}
+
+/* ==========================================
+	GRID
+========================================== */
+
+#header,
+#container,
+#columncontainer,
+#footer {clear: both; display: block; width: 980px; margin: 0 auto; background: white; border: 1px solid #ccc; text-align: left;}
+
+#leftcolumn {width: 200px; float: left; border: 1px solid #ccc;}
+#rightcolumn {width: 200px; float: right; border: 1px solid #ccc;}
+
+#maincolumn {width: 940px; margin: 0px; float: left; border: 1px solid #ccc;}
+#maincolumn.twocolumns {width: 720px;}
+#maincolumn.threecolumns {width: 500px;}
+
+
+/* ==========================================
+	CONTENT
+========================================== */
+
+
+/* ==========================================
+	FORUMS
+========================================== */
+
+
+/* ==========================================
+	BLOCKS
+========================================== */
+
+
+/* ==========================================
+	DRUPAL OVERRIDES
+========================================== */
+
+
+

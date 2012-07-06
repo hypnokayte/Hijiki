@@ -1,0 +1,24 @@
+name = Hijiki
+description = A simple starter theme. Tableless, multi-column, fixed width.
+core = 7.x
+engine = phptemplate
+
+stylesheets[all][] = boilerplate.css
+stylesheets[all][] = style.css
+stylesheets[all][] = style-ie6.css
+stylesheets[print][] = print.css
+
+regions[left]       	= Left Column
+regions[right]			= Right Column
+regions[contenttop]    	= Content Top
+regions[content]        = Content
+regions[header]        	= Header
+regions[footer]         = Footer
+
+
+; Information added by drupal.org packaging script on 2012-01-11
+version = "7.x-1.0"
+core = "7.x"
+project = "hijiki"
+datestamp = "1320214533"
+

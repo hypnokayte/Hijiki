@@ -1,0 +1,10 @@
+body {background: #fff; color: #000 !important;}
+a {color: #000 !important;}
+
+h1, h2, h3, h4, h5, h6, p {color: #000;}
+
+#header {background-image: none;}
+
+#container {margin: 20px;}
+#leftcolumn,
+#rightcolumn {display: none;}
